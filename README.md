@@ -1,4 +1,4 @@
-<h1>👋 WELCOME TO SUNNY WORLD 👋</h1>
+<h1>:sunny: WELCOME TO SUNNY WORLD :sunny:</h1>
 <br><br><br>
 
 
