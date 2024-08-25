@@ -1,7 +1,6 @@
-<h1>:sunny: WELCOME TO SUNNY WORLD :sunny:</h1>
-<br><br><br>
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0396e97d-ebfa-4590-9125-6d9f2f23b298" />
+</div>
 
 
 
