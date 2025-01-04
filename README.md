@@ -1,15 +1,13 @@
 
+  <img width="100%" alt="스크린샷 2025-01-05 오전 4 50 05" src="https://github.com/user-attachments/assets/117d43bf-c316-4135-9e35-55c1f0f628cc" />
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fd25a447-c03e-471c-b727-e73a4ed7bb1e" width="50%" />
-  <h2></h2>
-  
-  <br>
+ 
   <h3>🏃‍♂️ About Me 🏃‍♂️</h3>
   <a href="https://www.instagram.com/k_sunu_59"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/k_sunu_59"/></a>
   <a href="https://velog.io/@sunny_kim"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@sunny_kim"/></a>
   
-  <br><br>
+  <br>
+
   <div>
     <h3>💪 Tech Stack 💪</h3>
       <img src="https://img.shields.io/badge/Java-FF160B?style=for-the-badge&logo=Java&logoColor=white">
@@ -31,7 +29,26 @@
           <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
           <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
   </div>
-  <br><br>
+<br>
+
+  <h3>👨‍💼 Experience 👨‍💼</h3>
+
+ - 2024년도
+     - SW 학술동아리 C.愛.랑 32대 회장
+     - 제 3대 정보과학대학 학생회 READY 기획부장
+     - 한림대학교 대동제 '영화' 웹사이트 개발 팀장
+     - 교내 학술동아리 C.愛.랑 하계 SW 워크샵 참여
+     - 교내 학술동아리 C.愛.랑 신입생 전공 멘토링(자바) 진행
+ - 2023년도
+     - SW 학술동아리 C.愛.랑 웹개발 팀장
+     - 제 2대 정보과학대학 학생회 SEASON 대외협력부장
+     - 교내 학술동아리 C.愛.랑 하계 SW 워크샵 참여
+     - 교내 학술동아리 C.愛.랑 신입생 전공 멘토링(자바) 진행
+  - 2021년도
+     - 2021.01.04 ~ 2022.07.03 5군단 5군수지원여단 본부대
+  - 2020년도
+     - 한림대학교 소프트웨어학부 SW 학술동아리 C.愛.랑 부원
+<br>
 
   <h3>🏆 Awards 🏆</h3>
         
